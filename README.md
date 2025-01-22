@@ -64,14 +64,5 @@ Para compilar el proyecto y ejecutar las pruebas, usa:
 
 ---
 
-**Conecta conmigo en alguna de mis redes sociales 🤓**
-
-Si deseas seguir mi progreso o conectar conmigo, puedes hacerlo a través de mis redes sociales o visitar mi portafolio web:
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-richaud/)
-[![X](https://img.shields.io/badge/-(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Antonio_Richaud)
-[![Youtube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AntonioRichaud/)
-[![TIKTOK](https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@antonio_richaud)
-[![Antonio-Richaud.com](https://img.shields.io/badge/-ANTONIORICHAUD.COM-8E2DE2?style=for-the-badge&logo=react&logoColor=white)](https://antonio-richaud.com/)
 
 ---
